@@ -1,11 +1,6 @@
 {
   "username": "test_user",
   "password": "P@ssw0rd123",
-  "email": "test@example.com",
-  "profile": {
-    "age": 25,
-    "country": "Egypt",
-    "interests": ["CTF", "security", "python"]
-  },
-  "admin": false
+  "email": "test@example.com"
 }
+
